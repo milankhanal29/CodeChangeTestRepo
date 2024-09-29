@@ -6,5 +6,6 @@ public class Order {
     private int productId;
     private int pid;
     private Date expiryDate;
+    private Date createdDate;
 }
 
