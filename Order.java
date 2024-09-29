@@ -5,5 +5,6 @@ public class Order {
     private int orderId;
     private int productId;
     private int hi;
+    private int roll;
 }
 
